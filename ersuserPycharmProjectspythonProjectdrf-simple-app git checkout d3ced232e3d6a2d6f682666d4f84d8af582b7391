@@ -1,0 +1,59 @@
+[33mcommit d3ced232e3d6a2d6f682666d4f84d8af582b7391[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ulugbek101 <thedevu101@gmail.com>
+Date:   Wed May 29 08:34:49 2024 +0500
+
+    Add some permission to read only for owner users
+
+[33mcommit e8beaed71ad6b3192a36ebd03dd3545a1f2124dd[m
+Author: ulugbek101 <thedevu101@gmail.com>
+Date:   Tue May 28 09:51:13 2024 +0500
+
+    Add IsOwner permission for NoteViewSet
+
+[33mcommit 04b0b84d46b37853b7505404b4089e26d447da56[m
+Author: ulugbek101 <thedevu101@gmail.com>
+Date:   Tue May 28 08:39:27 2024 +0500
+
+    Change ViewSet to ModelViewSet, Add NoteViewSet
+
+[33mcommit e5f261782e6e920f000bcef4128079fc60b601ac[m
+Author: ulugbek101 <thedevu101@gmail.com>
+Date:   Thu May 23 09:56:32 2024 +0500
+
+    Add UserViewSet
+
+[33mcommit b2354b77a1abb059a7ca71b079bce8af69acb001[m
+Author: ulugbek101 <thedevu101@gmail.com>
+Date:   Thu May 23 08:31:42 2024 +0500
+
+    Views cleanup
+
+[33mcommit 8c23f13e376e149f6d1294ca50e4d08e37871fd3[m
+Author: ulugbek101 <thedevu101@gmail.com>
+Date:   Tue May 21 09:49:30 2024 +0500
+
+    Add path, get, delete methods for individual note
+
+[33mcommit fd1a1e36b1678dc7e89ef2237893c808139dee5d[m
+Author: ulugbek101 <thedevu101@gmail.com>
+Date:   Tue May 21 08:47:50 2024 +0500
+
+    Add req.txt
+
+[33mcommit e6963683c16ee307bcc8d86d6907243fcc9221ee[m
+Author: ulugbek101 <thedevu101@gmail.com>
+Date:   Tue May 21 08:37:53 2024 +0500
+
+    Add users/ route
+
+[33mcommit 7c4c2526bbad52bb4b571d47258944da0a7b7729[m
+Author: ulugbek101 <thedevu101@gmail.com>
+Date:   Sat May 18 09:31:31 2024 +0500
+
+    Add notes/ notes/new/ routes
+
+[33mcommit c638ca595e5265fb5c156bc796ca4807bc4e40b1[m
+Author: ulugbek101 <thedevu101@gmail.com>
+Date:   Sat May 18 08:09:30 2024 +0500
+
+    Initial commit, Add get_notes view
